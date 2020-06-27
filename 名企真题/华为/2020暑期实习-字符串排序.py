@@ -7,18 +7,19 @@
 s = list(input())
 res = [0]
 
-def dfs(x):
-    if x == len(s) - 1:
+def dfs(i):
+    if i == len(s) - 1:
         res[0] += 1
         return
     dic = set()
-    for i in range(x, len(s)):
-        if s[i] in dic:
+    for j in range(i, len(s)):
+        if s[j] in dic:
             continue
-        dic.add(s[i])
-        s[i], s[x] = s[x], s[i]
-        dfs(x + 1)
-        s[i], s[x] = s[x], s[i]
+        dic.add(s[j])
+        print(dic)
+        s[j], s[i] = s[i], s[j]
+        dfs(i + 1)
+        s[j], s[i] = s[i], s[j]
 
 dfs(0)
 print(res[0])

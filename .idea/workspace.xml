@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/排列组合/02.组合总数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/排列组合/03.组合总数2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/名企真题/华为/2020暑期实习-字符串排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/名企真题/华为/2020暑期实习-字符串排序.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,20 +30,21 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/数据结构/排列组合" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data2" />
-      <recent name="E:\PycharmProjects\数据结构\队列、栈、堆" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题\格灵深瞳" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题\华为" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm_projects\datastruct_and_algorithms\数据结构\排列组合" />
+      <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data2" />
+      <recent name="E:\PycharmProjects\数据结构\队列、栈、堆" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_txt_file">
-    <configuration name="最相似子矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.03.组合总数2">
+    <configuration name="02.组合总数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +68,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/华为机试练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/排列组合" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/华为机试练习/最相似子矩阵.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/排列组合/02.组合总数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03.组合总数2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/排列组合" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/排列组合/03.组合总数2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2020暑期实习-字符串排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,32 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/华为" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\pycharm_projects\datastruct_and_algorithms\名企真题\格灵深瞳\1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2020春招实习-方格游戏" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/阿里" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/阿里/2020春招实习-方格游戏.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/华为/2020暑期实习-字符串排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,34 +207,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/华为机试练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/华为机试练习/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03.组合总数2" />
+        <item itemvalue="Python.02.组合总数" />
+        <item itemvalue="Python.2020暑期实习-字符串排序" />
         <item itemvalue="Python.read_txt_file" />
         <item itemvalue="Python.1 (1)" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.最相似子矩阵" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +238,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
