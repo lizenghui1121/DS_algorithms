@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode 100/62.不同的路径.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode 100/72.编辑距离.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode 100/75.颜色分类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode 100/718.最长重复子数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode 100/76.最小覆盖子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode 100/78.子集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode 100/79.单词搜索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode 100/84.柱状图中的最大矩形.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode 100/72.编辑距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode 100/72.编辑距离.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +62,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.72.编辑距离">
-    <configuration name="02.合并k个有序链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.84.柱状图中的最大矩形">
+    <configuration name="01.求子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/分治" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/回溯" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/分治/02.合并k个有序链表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/回溯/01.求子集.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.下一个排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02.求子集（有重复元素)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/排列组合" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/回溯" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/排列组合/04.下一个排列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/回溯/02.求子集（有重复元素).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="56.合并区间" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="78.子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/56.合并区间.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/78.子集.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="62.不同的路径" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="79.单词搜索" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/62.不同的路径.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/79.单词搜索.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="72.编辑距离" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="84.柱状图中的最大矩形" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/72.编辑距离.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/84.柱状图中的最大矩形.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.72.编辑距离" />
-        <item itemvalue="Python.62.不同的路径" />
-        <item itemvalue="Python.56.合并区间" />
-        <item itemvalue="Python.04.下一个排列" />
-        <item itemvalue="Python.02.合并k个有序链表" />
+        <item itemvalue="Python.84.柱状图中的最大矩形" />
+        <item itemvalue="Python.79.单词搜索" />
+        <item itemvalue="Python.78.子集" />
+        <item itemvalue="Python.02.求子集（有重复元素)" />
+        <item itemvalue="Python.01.求子集" />
       </list>
     </recent_temporary>
   </component>
