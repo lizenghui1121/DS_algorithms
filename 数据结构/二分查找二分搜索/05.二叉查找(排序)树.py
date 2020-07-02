@@ -46,12 +46,12 @@ def binary_search_tree(node, target):
     if node.val == target:
         return True
     elif node.val < target:
-        if node.left:
+        if node.right:
             return binary_search_tree(node.right, target)
         else:
             return False
     else:
-        if node.right:
+        if node.left:
             return binary_search_tree(node.left, target)
         return False
 
