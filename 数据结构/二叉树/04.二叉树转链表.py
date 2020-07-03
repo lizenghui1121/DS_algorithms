@@ -32,34 +32,44 @@ def flatten(root):
         node = node.right
 
 
-# 就地方法
-def pre_order_2(node, last):
-    if not node:
-        return
-    if not node.left and not node.right:
-        last = node
-        return
-    left = node.left
-    right = node.right
-    left_last = None
-    right_last = None
+# 就地方法1, 非递归
+# 将原来的右子树接到左子树的最右边节点
+# 将左子树插入到右子树的地方
+# 考虑新的右子树的根节点，一直重复上边的过程，直到新的右子树为 null
+def flatten_2(root):
+    """
+    Do not return anything, modify root in-place instead.
+    """
+    while root:
+        # 左子树为None，直接考虑下一个节点
+        if not root.left:
+            root = root.right
+        else:
+            # 找左子树最右的节点
+            pre = root.left
+            while pre.right:
+                pre = pre.right
 
-    if left:
-        pre_order_2(left, left_last)
-        node.left = None
-        node.right = left
-        last = left_last
-    if right:
-        pre_order_2(right, right_last)
-        if left_last:
-            left_last.right = right
-
-        last = right_last
+            pre.right = root.right
+            # 将左子树插入到右子树的地方
+            root.right = root.left
+            root.left = None
+            # 考虑下一个节点
+            root = root.right
 
 
-def flatten2(root):
-    last = None
-    pre_order_2(root, last)
+# 递归解法
+def flatten_3(root):
+    pre = [None]
+    def helper(root):
+        if not root:
+            return
+        flatten(root.right)
+        flatten(root.left)
+        root.left = pre[0]
+        root.right = None
+        pre[0] = root
+    helper(root)
 
 
 if __name__ == '__main__':
@@ -75,7 +85,8 @@ if __name__ == '__main__':
     t1.right = t4
 
     # flatten(root)
-    flatten2(root)
+    flatten_2(root)
+    # flatten_3(root)
     while root:
         print(root.val)
         root = root.right
