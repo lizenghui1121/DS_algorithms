@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode 100/146.LRU缓存机制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/字节跳动/01.等差数列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/字节跳动/02.蚂蚁移动.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/字节跳动/03.k次交换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/字节跳动/04.全1子矩形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode 100/200.岛屿数量.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指offer/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03.k次交换">
+  <component name="RunManager" selected="Python.每日1题_跳水板">
     <configuration name="01.等差数列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="146.LRU缓存机制" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="每日1题_跳水板" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/146.LRU缓存机制.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/每日1题_跳水板.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="200.岛屿数量" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode 100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/200.岛屿数量.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.每日1题_跳水板" />
+        <item itemvalue="Python.200.岛屿数量" />
         <item itemvalue="Python.03.k次交换" />
         <item itemvalue="Python.02.蚂蚁移动" />
         <item itemvalue="Python.01.等差数列" />
-        <item itemvalue="Python.146.LRU缓存机制" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
