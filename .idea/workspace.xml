@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode 100/200.岛屿数量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/名企真题/牛客/01.魔法数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/名企真题/牛客/02.移动字母.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/滑动窗口/滑动窗口最大值.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +30,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/数据结构/排列组合" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -57,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.每日1题_跳水板">
-    <configuration name="01.等差数列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.滑动窗口最大值">
+    <configuration name="滑动窗口最大值" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/字节跳动" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/滑动窗口" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/字节跳动/01.等差数列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/滑动窗口/滑动窗口最大值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.蚂蚁移动" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01.最少操作数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/字节跳动" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/牛客" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/字节跳动/02.蚂蚁移动.py" />
+      <option name="SCRIPT_NAME" value="E:\pycharm_projects\datastruct_and_algorithms\名企真题\牛客\01.魔法数字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.k次交换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01.魔法数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +110,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/字节跳动" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/牛客" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/字节跳动/03.k次交换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/牛客/01.魔法数字.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.移动字母" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/牛客" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/牛客/02.移动字母.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09.最小窗口字串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/哈希表与字符串" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/哈希表与字符串/09.最小窗口字串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,34 +186,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="200.岛屿数量" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode 100" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode 100/200.岛屿数量.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.滑动窗口最大值" />
+        <item itemvalue="Python.09.最小窗口字串" />
+        <item itemvalue="Python.02.移动字母" />
+        <item itemvalue="Python.01.最少操作数" />
         <item itemvalue="Python.每日1题_跳水板" />
-        <item itemvalue="Python.200.岛屿数量" />
-        <item itemvalue="Python.03.k次交换" />
-        <item itemvalue="Python.02.蚂蚁移动" />
-        <item itemvalue="Python.01.等差数列" />
       </list>
     </recent_temporary>
   </component>
@@ -209,11 +232,6 @@
           <url>file://$PROJECT_DIR$/算法思想/回溯/06.判断矩阵中是否存在某条路径.py</url>
           <line>42</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/数据结构/图/04.单源最短路径.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/名企真题/对抗性攻击.py</url>
