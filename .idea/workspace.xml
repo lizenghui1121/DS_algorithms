@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数据结构/数组/03.前k个高频元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/栈/01.字符串解码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/动态规划/10.打家劫舍(树形dp).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/回溯/08.删除无效括号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/贪心法/09.完全平方数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/datastruct_and_algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datastruct_and_algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/二叉树/10.路径之和3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/动态规划/11.分割等和子集.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/二分查找二分搜索/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/二分查找二分搜索/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/02.用两个栈实现队列.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/02.用两个栈实现队列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/03.带min函数的栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/03.带min函数的栈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/04.合法的出栈顺序.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/栈/04.合法的出栈顺序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/05.简单的计算器.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/05.简单的计算器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/06.实现堆.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/06.实现堆.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/07.堆排序(空间O(1)).py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/07.堆排序(空间O(1)).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/08.TopK问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/08.TopK问题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/my_heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/my_heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/queue_and_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/queue_and_stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/队列、栈、堆/堆排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/堆排序.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,17 +33,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\pycharm_projects\datastruct_and_algorithms\数据结构\排列组合" />
-      <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data2" />
-      <recent name="E:\PycharmProjects\数据结构\队列、栈、堆" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\数据结构\栈" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题\格灵深瞳" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题\华为" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm_projects\datastruct_and_algorithms\数据结构\排列组合" />
+      <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data2" />
+      <recent name="E:\PycharmProjects\数据结构\队列、栈、堆" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01.字符串解码">
+  <component name="RunManager" selected="Python.10.路径之和3">
     <configuration name="01.字符串解码" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08.删除无效括号" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10.路径之和3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/回溯" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/二叉树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/回溯/08.删除无效括号.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/二叉树/10.路径之和3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10.打家劫舍(树形dp)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11.分割等和子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/动态规划/10.打家劫舍(树形dp).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/动态规划/11.分割等和子集.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10.路径之和3" />
+        <item itemvalue="Python.11.分割等和子集" />
         <item itemvalue="Python.01.字符串解码" />
         <item itemvalue="Python.03.前k个高频元素" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.10.打家劫舍(树形dp)" />
-        <item itemvalue="Python.08.删除无效括号" />
       </list>
     </recent_temporary>
   </component>
