@@ -98,6 +98,17 @@ def next_order_2(root):
         cur = stack.pop()
     return res[::-1]
 
+def next_order_3(root):
+    stack = []
+    res = []
+    cur = root
+    while cur or stack:
+        while cur:
+            res.append(cur.val)
+            stack.append(cur.left)
+            cur = cur.right
+        cur = stack.pop()
+    return res[::-1]
 
 if __name__ == '__main__':
     root = TreeNode(1)
