@@ -28,6 +28,22 @@ def pre_order(node, search, path, result, finish):
     path.pop()
 
 
+# 递归解法
+def lowestCommonAncestor(root, p, q):
+    def dfs(root, p, q):
+        nonlocal res
+        if not root:
+            return False
+        lson = dfs(root.left, p, q)
+        rson = dfs(root.right, p, q)
+        if (lson and rson) or ((root.val == p.val or root.val == q.val) and (lson or rson)):
+            res = root
+        return lson or rson or (root.val == p.val or root.val == q.val)
+    res = None
+    dfs(root, p, q)
+    return res.val
+
+
 if __name__ == '__main__':
     res1 = []
     res2 = []
@@ -43,6 +59,7 @@ if __name__ == '__main__':
     t1.left = t3
     t1.right = t4
     finish = 0
+    print("递归解法", lowestCommonAncestor(root, t3, t4))
     pre_order(root, t3, path, res1, 0)
     path = []
     pre_order(root, t4, path, res2, 0)
