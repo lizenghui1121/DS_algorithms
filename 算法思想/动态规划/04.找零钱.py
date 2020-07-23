@@ -21,4 +21,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print(s.coin_change([1, 2, 5, 10], 19))
+    print(s.coin_change([1, 7, 10], 14))  # 2
