@@ -153,7 +153,7 @@ if __name__ == '__main__':
     test_arr5 = [2, 5, 6, 1, 4, 8, 3, 7]
     test_arr6 = [2, 5, 6, 1, 4, 8, 3, 7]
     test_arr7 = [2, 5, 6, 1, 4, 8, 3, 7]
-    test_arr8 = [2, 5, 6, 1, 4, 8, 3, 7, 1, 6, 7]
+    test_arr8 = [5, 7, 11, 56, 12, 1, 9]
     test_arr9 = [2, 5, 6, 1, 4, 8, 3, 7]
     print(insert_sort(test_arr1))
     print(bubble_sort(test_arr2))

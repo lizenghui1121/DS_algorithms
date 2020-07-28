@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/名企真题/华为/2020.07.15提前批-给定距离的不同走法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/华为/2020.7.15提前批-买最少的东西.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/07.23/凯撒密码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/07.23/完全平方数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/07.23/排队.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客/07.25/1.牛牛爱奇数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客/07.25/2.牛牛摆放花.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客/07.25/3.星球游戏.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/名企真题/牛客/01.魔法数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客/01.魔法数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/名企真题/牛客/02.移动字母.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客/02.移动字母.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/名企真题/牛客/07.18 tree i.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客/07.18 tree i.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/名企真题/牛客/07.18浅尝辄止.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客/07.18浅尝辄止.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/动态规划/04.找零钱.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/动态规划/04.找零钱.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/排序/10大排序算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/排序/10大排序算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/队列、堆/08.TopK问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/08.TopK问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/队列、堆/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/队列、堆/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,91 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2020.7.15提前批-买最少的东西">
-    <configuration name="凯撒密码" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/牛客/07.23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/牛客/07.23/凯撒密码.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="完全平方数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/牛客/07.23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/牛客/07.23/完全平方数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2020.07.15提前批-给定距离的不同走法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/华为" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/华为/2020.07.15提前批-给定距离的不同走法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2020.7.15提前批-买最少的东西" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/华为" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/华为/2020.7.15提前批-买最少的东西.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.08.TopK问题">
     <configuration name="排队" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,13 +84,118 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="08.TopK问题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/队列、堆" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/队列、堆/08.TopK问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09.两链表求和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/链表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/链表/09.两链表求和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10大排序算法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/排序/10大排序算法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.牛牛爱奇数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/牛客/07.25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/牛客/07.25/1.牛牛爱奇数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/队列、堆" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/队列、堆/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2020.7.15提前批-买最少的东西" />
-        <item itemvalue="Python.排队" />
-        <item itemvalue="Python.完全平方数" />
-        <item itemvalue="Python.凯撒密码" />
-        <item itemvalue="Python.2020.07.15提前批-给定距离的不同走法" />
+        <item itemvalue="Python.08.TopK问题" />
+        <item itemvalue="Python.1.牛牛爱奇数" />
+        <item itemvalue="Python.09.两链表求和" />
+        <item itemvalue="Python.10大排序算法" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
