@@ -3,11 +3,6 @@
 @Author: Li Zenghui
 @Date: 2020-07-22 22:17
 """
-"""
-
-@Author: Li Zenghui
-@Date: 2020-07-22 15:43
-"""
 # n 数量
 n, y = map(int, input().split())
 

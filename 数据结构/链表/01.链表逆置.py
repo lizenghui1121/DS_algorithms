@@ -27,19 +27,19 @@ class Solution:
             head = head.next
             m = m - 1
         modify_list_tail = head
-        new_head = None
+        modify_list_head = None
         while head and change_len > 0:
             next = head.next
-            head.next = new_head
-            new_head = head
+            head.next = modify_list_head
+            modify_list_head = head
             head = next
             change_len -= 1
-        modify_list_tail.next = head
+        modify_list_tail.next = next
 
         if pre_head:
-            pre_head.next = new_head
+            pre_head.next = modify_list_head
         else:
-            res = new_head
+            res = modify_list_head
         return res
 
 

@@ -5,20 +5,29 @@
 """
 
 
-def solve(n, a):
-    # write code here
-    import collections
-    counter = collections.Counter(a)
-    res = 0
-    for num in counter:
-        if num != 0 and num % 2 == 0:
-            while num != 1 or num != -1:
+class Solution:
+    def solve(self , n , a ):
+        # write code here
+        res=0
+        tempres=[]
+        s = set()
+        for num in a:
+            if num % 2 == 0:
+                if num not in s:
+                    tempres.append(num)
+                    s.add(num)
+                else:
+                    continue
+        tempres.sort(reverse=True)
+        for index, item in enumerate(tempres):
+            s.remove(item)
+            while item % 2 == 0 and item not in s:
                 res += 1
-                num = num >> 1
-    return res
+                item = item // 2
+        return res
 
 
 if __name__ == '__main__':
-    print(solve(3, [3, 2, 3]))
-    print(0 % 2)
-    print(2 >> 1)
+    s = Solution()
+    print(s.solve(3, [3, 2, 3]))
+    print(6 // 0)
