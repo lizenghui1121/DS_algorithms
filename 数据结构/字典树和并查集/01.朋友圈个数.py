@@ -18,6 +18,37 @@
 """
 
 
+class UF:
+    def __init__(self, M):
+        self.f = {}
+        self.s = {}
+        self.count = len(M)
+
+    def find(self, x):
+        self.f.setdefault(x, x)
+        while x != self.f[x]:
+            self.f[x] = self.f[self.f[x]]
+            x = self.f[x]
+        return x
+
+    def union(self, x, y):
+        x_root = self.find(x)
+        y_root = self.find(y)
+        if x_root == y_root:
+            return
+        else:
+            if self.s.setdefault(x_root, 1) < self.s.setdefault(y_root, 1):
+                self.f[x_root] = y_root
+                self.s[y_root] += self.s[x_root]
+            else:
+                self.f[y_root] = x_root
+                self.s[x_root] = y_root
+        self.count -= 1
+
+    def connected(self, x, y):
+        return self.find(x) == self.find(y)
+
+
 def findCircleNum(M):
     f = {}
     s = {}
@@ -61,4 +92,10 @@ if __name__ == '__main__':
     M = [[1, 1, 0],
          [1, 1, 0],
          [0, 0, 1]]
+    uf = UF(M)
+    for i in range(len(M)):
+        for j in range(i + 1, len(M[0])):
+            if M[i][j] == 1:
+                uf.union(i, j)
+    print(uf.count)
     print(findCircleNum(M))
