@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/数据结构/字典树和并查集/03.除法求余.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/动态规划/12.石子合并.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/动态规划/13.最长公共子序列.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/字典树和并查集/01.朋友圈个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/字典树和并查集/01.朋友圈个数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01.朋友圈个数">
+  <component name="RunManager" selected="Python.13.最长公共子序列">
     <configuration name="01.朋友圈个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08.删除无效括号" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03.除法求余" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/回溯" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/字典树和并查集" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/回溯/08.删除无效括号.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/字典树和并查集/03.除法求余.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.石子合并" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/牛客/7.31" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/动态规划" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/牛客/7.31/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/动态规划/12.石子合并.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.最长公共子序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/牛客/7.31" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/动态规划" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/牛客/7.31/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/动态规划/13.最长公共子序列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.13.最长公共子序列" />
+        <item itemvalue="Python.12.石子合并" />
+        <item itemvalue="Python.03.除法求余" />
         <item itemvalue="Python.01.朋友圈个数" />
         <item itemvalue="Python.02.最短无序连续子数组" />
-        <item itemvalue="Python.08.删除无效括号" />
-        <item itemvalue="Python.2 (1)" />
-        <item itemvalue="Python.3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,5 +219,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="values" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
