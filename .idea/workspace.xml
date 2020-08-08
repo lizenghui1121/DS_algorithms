@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数据结构/数组/04.前缀和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/树状数组/1.模板题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/树状数组/2.计算右侧小于当前元素的个数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/动态规划/14. 参加考试的最大学生数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/名企真题/猿辅导/0801-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/数组/05.Topk问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/数组/06.逆序对.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客/8.6/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客/8.6/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/牛客/8.6/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/数学/01.快速幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/数学/02.gcd_lcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/数学/03.判断质数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/数学/04.判断闰年.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +66,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.计算右侧小于当前元素的个数">
-    <configuration name="04.前缀和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04.判断闰年">
+    <configuration name="01.快速幂" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/数组" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/数学" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/数组/04.前缀和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/数学/01.快速幂.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13.最长公共子序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02.gcd_lcm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/动态规划" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/数学" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/动态规划/13.最长公共子序列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/数学/02.gcd_lcm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14. 参加考试的最大学生数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03.判断质数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/动态规划" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/数学" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/动态规划/14. 参加考试的最大学生数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/数学/03.判断质数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.模板题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04.判断闰年" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/树状数组" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/数学" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/树状数组/1.模板题.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/数学/04.判断闰年.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.计算右侧小于当前元素的个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/树状数组" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/名企真题/网易" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/树状数组/2.计算右侧小于当前元素的个数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/网易/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.计算右侧小于当前元素的个数" />
-        <item itemvalue="Python.1.模板题" />
-        <item itemvalue="Python.04.前缀和" />
-        <item itemvalue="Python.14. 参加考试的最大学生数" />
-        <item itemvalue="Python.13.最长公共子序列" />
+        <item itemvalue="Python.04.判断闰年" />
+        <item itemvalue="Python.03.判断质数" />
+        <item itemvalue="Python.02.gcd_lcm" />
+        <item itemvalue="Python.01.快速幂" />
+        <item itemvalue="Python.1 (1)" />
       </list>
     </recent_temporary>
   </component>
