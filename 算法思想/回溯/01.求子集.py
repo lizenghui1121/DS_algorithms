@@ -27,6 +27,7 @@ def find_subsets_bit(nums):
     all_set = 1 << len(nums)
     res = []
     for i in range(all_set):
+        print("i：", i)
         item = []
         for j in range(len(nums)):
             print(i & (1 << j))
