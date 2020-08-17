@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b3a8f4-412a-4844-8dbf-63ec489659d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode 100/43.字符串乘法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/哔哩哔哩/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/哔哩哔哩/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名企真题/哔哩哔哩/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/字典树和并查集/04.AcWing 237. 程序自动分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/字典树和并查集/05.AcWing 238. 银河英雄传说.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/树状数组/3.AcWing 242. 一个简单的整数问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/树状数组/4.AcWing 243. 一个简单的整数问题2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/08.13/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/08.13/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/08.13/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/08.15/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客/相互认可数量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法思想/动态规划/15.找零钱2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法思想/动态规划/16.移动服务.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法思想/回溯/01.求子集.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法思想/回溯/01.求子集.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/名企真题/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/名企真题/字节跳动/08.16笔试2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/名企真题/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/名企真题/字节跳动/08.16笔试1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +34,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\pycharm_projects\datastruct_and_algorithms\数据结构\排列组合" />
-      <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data2" />
-      <recent name="E:\PycharmProjects\数据结构\队列、栈、堆" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题\字节跳动" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\数据结构\栈" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题" />
       <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题\格灵深瞳" />
-      <recent name="E:\pycharm_projects\datastruct_and_algorithms\名企真题\华为" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm_projects\datastruct_and_algorithms\数据结构\排列组合" />
+      <recent name="E:\pycharm_projects\datastruct_and_algorithms\读写txt\data2" />
+      <recent name="E:\PycharmProjects\数据结构\队列、栈、堆" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,28 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2">
-    <configuration name="01.求子集" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="datastruct_and_algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/回溯" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/回溯/01.求子集.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.16.移动服务">
     <configuration name="04.AcWing 237. 程序自动分析" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,6 +81,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="16.移动服务" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastruct_and_algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法思想/动态规划" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法思想/动态规划/16.移动服务.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastruct_and_algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/2.py" />
+      <option name="SCRIPT_NAME" value="E:\pycharm_projects\datastruct_and_algorithms\名企真题\字节跳动\08.16笔试2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/名企真题/3.py" />
+      <option name="SCRIPT_NAME" value="E:\pycharm_projects\datastruct_and_algorithms\名企真题\字节跳动\08.16笔试1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16.移动服务" />
         <item itemvalue="Python.2" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.3.AcWing 242. 一个简单的整数问题" />
         <item itemvalue="Python.04.AcWing 237. 程序自动分析" />
-        <item itemvalue="Python.01.求子集" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +186,14 @@
       <option name="presentableId" value="Default" />
       <updated>1582807633995</updated>
     </task>
+    <task id="LOCAL-00001" summary="add some problem">
+      <created>1597588434271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597588434271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -217,6 +211,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add some problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
